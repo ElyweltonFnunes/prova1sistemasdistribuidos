@@ -15,3 +15,5 @@ servidor.register_function(
 print("Servidor RPC aguardando solicitações...")
 
 servidor.server_forever()
+
+RESILTADO - Servidor RPC aguardando solicitações...
