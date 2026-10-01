@@ -5,3 +5,7 @@ servidor = ServerProxy("http://localhost:8002/")
 resultado = servidor.consultar_saldo(15, 4)
 
 print("Unidade restante:", resultado)
+
+RESULTADO - Unidade restante: 11
+
+
